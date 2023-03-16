@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou no primeiro semestre de ciências da computação
-- 🌱 Atualmente estou estudando html, CSS e JS
+- 🌱 Atualmente estou estudando html, CSS , JS e go
 - 😄 Pronouns: ele/dele 
 
 <div>
