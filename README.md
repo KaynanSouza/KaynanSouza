@@ -13,9 +13,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaynanSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 <div>
-    <a href="https://github.com/KaynanSouza">
-    <img href="https://github-readme-stats.vercel.app/api/top-langs/?username=KaynanSouza&layout=compact)https://github-readme-stats.vercel.app/api/top-langs/?username=KaynanSouza&layout=compact"/>
-      
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?
+      username=KaynanSouza&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 </div>
   
 </section>
