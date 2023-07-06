@@ -8,6 +8,7 @@
 
   <div>
     
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaynanSouza&layout=compact)
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaynanSouza&show_icons=true&theme=transparent)
     
   </div>
