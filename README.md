@@ -13,7 +13,6 @@
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vuejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
-  <img align="center" alt="Vuejs" height="40" width="50" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg](https://w7.pngwing.com/pngs/520/391/png-transparent-rust-system-programming-language-programmer-programming-language-logo-bicycle-part-c-thumbnail.png)">
   
 </div>
 <br/>
